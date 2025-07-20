@@ -47,7 +47,7 @@ built in package manager (dpkg, yum, apt, rpm etc...). Make sure that the
 are installed so that the headers are available.
 
 Under Cygwin install `protobuf-c` from source; the rest are available
-through packages.  Install `libssl-devel`, `libcurl-devel', `libusb-devel`,
+through packages.  Install `libssl-devel`, `libcurl-devel`, `libusb-devel`,
 `libprotobuf-devel`.
 In order to use your the `protobuf-c` library compiled from source,
 run *cmake* as
